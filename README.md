@@ -48,3 +48,19 @@ If we using HTML to do the website, we will have over 200 pages for many animal.
 
 Implementation: API data from QLDWildenet, quiz/game, educative videos, Teacher mode
 
+
+Hi everyone, today we will be introducing our website : wildlife guide junior.
+
+
+Project scope
+ Our team have created an interactive website that provides educational information of the wildlife animals in Australia. Except for the learning from the classroom, we hope that the website could provide a fun, immersive learning experience for children. Also, we hope that this can be a useful educational platform for teachers to deliver their class in a more interesting way.
+
+
+For the API, we have use the datasets from 
+Target audience
+Our main target audience is primary school students (7-12 years old) and teachers.
+
+
+Success criteria:
+To test whether we have achieve our project goals, we will be using surveys and doing interviews with teachers and students respectively. We hope that students can learn and able to understand the content about wildlife after browsing our website, being motivated and willing to learn more. For teachers, we hope that they will learn more about how to educate children in different ways through the articles in teacher mode. Also, using this website as a good tool in class to let the class become more engaging.
+
